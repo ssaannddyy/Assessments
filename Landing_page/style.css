@@ -1,0 +1,53 @@
+.container{
+	padding: 100px;
+	padding-top: 50px;
+	margin: 50px 200px;
+	background-color: #f1f1e8;
+}
+.big{
+	text-align: center;
+	background-color: #e8ded2;
+	padding: 10px 20px;
+}
+.small{
+	background-color: #a3d2ca;
+	color: #f6f5f5;
+	padding: 3px 6px;
+}
+#td_right{
+	padding: 3px 10px;
+	text-align: left;
+}
+#td_left{
+	padding: 3px 10px;
+	text-align: right;
+}
+table{
+	width: 100%;
+}
+h1{
+	font-size: 60px;
+}
+#signup{
+	font-size: 15px;
+	padding: 10px 20px;
+	background-color: #91d18b;
+	color: #f6f5f5;
+	border: 0px;
+	border-radius: 5px;
+}
+#launch{
+	font-size: 15px;
+	padding: 10px 30px;
+	background-color: #91d18b;
+	color: #f6f5f5;
+	border: 0px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+td{
+	text-align: left;
+	padding: 15px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
